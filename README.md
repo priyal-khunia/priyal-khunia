@@ -144,16 +144,16 @@ I am a **3rd-year Artificial Intelligence & Data Science undergraduate** at **Vi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=priyal-khunia&theme=radical&column=6&margin-w=15&margin-h=15" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=priyal-khunia&theme=radical&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyal-khunia&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyal-khunia&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=priyal-khunia&show_icons=true&theme=radical&hide_border=true&count_private=true" width="410" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=priyal-khunia&theme=radical&hide_border=true" width="410" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyal-khunia&layout=compact&theme=radical&hide_border=true&langs_count=8" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyal-khunia&layout=compact&theme=radical&hide_border=true&langs_count=8" width="450" alt="Top Languages" />
 
 </div>
 
