@@ -18,7 +18,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 🧬 About & Core Engineering Focus
 
@@ -41,7 +41,7 @@ I am a **3rd-year Artificial Intelligence & Data Science undergraduate** at **Vi
   - 🧩 Deepening **Java & Advanced Data Structures & Algorithms** for SDE technical interviews.
   - ⚡ Mastering **Advanced REST API patterns** (FastAPI, OpenAPI) & **React Native / Expo**.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 🛠️ Tech Stack & Ecosystem
 
@@ -98,7 +98,7 @@ I am a **3rd-year Artificial Intelligence & Data Science undergraduate** at **Vi
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 🚀 Selected Engineering Projects
 
@@ -127,7 +127,7 @@ I am a **3rd-year Artificial Intelligence & Data Science undergraduate** at **Vi
                   real-world email triage decision tasks, fully containerized with Docker.
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 🏆 Key Achievements & Milestones
 
@@ -138,7 +138,7 @@ I am a **3rd-year Artificial Intelligence & Data Science undergraduate** at **Vi
 - 🎓 **Generative AI Certification**: Completed *Generative AI Foundation* by Techzooka 2025.
 - ⚡ **Competitive Hacker**: Finalist/Competitor at *Agent-X 2026* and *AIBoomi Startup Weekend*.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 📊 Performance & Contribution Metrics
 
@@ -155,9 +155,13 @@ I am a **3rd-year Artificial Intelligence & Data Science undergraduate** at **Vi
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyal-khunia&layout=compact&theme=radical&hide_border=true&langs_count=8" width="450" alt="Top Languages" />
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyal-khunia&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <div align="center">
 
