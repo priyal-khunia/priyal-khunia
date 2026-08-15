@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ PRIYAL AMIT KHUNIA
+# 👋 Hey, I'm Priyal Khunia
 ### `Full-Stack Developer` • `AI Systems Engineer` • `B.Tech AI & Data Science`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=650&lines=Building+Next-Gen+Full-Stack+Web+%26+Mobile+Apps;Engineering+Scalable+REST+APIs+%26+AI+Agents;3rd-Year+B.Tech+AI+%26+DS+%40+Vishwakarma+University;Open-Source+Contributor+%40+GSSoC+'26)](https://git.io/typing-svg)
