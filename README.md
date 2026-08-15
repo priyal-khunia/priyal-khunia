@@ -3,15 +3,7 @@
 # ⚡ PRIYAL AMIT KHUNIA
 ### `Full-Stack Developer` • `AI Systems Engineer` • `B.Tech AI & Data Science`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&pause=1000&color=F43F5E&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Priyal+Amit+Khunia;Building+Full-Stack+Web+%26+Mobile+Apps;Engineering+Scalable+REST+APIs+%26+AI+Agents;3rd-Year+B.Tech+AI+%26+DS+Student;Open-Source+Contributor+%40+GSSoC+'26)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="https://github.com/priyal-khunia">
-  <img src="https://img.shields.io/badge/Status-🟢_Open_to_SDE_%26_AI_Roles-10B981?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=650&lines=Building+Next-Gen+Full-Stack+Web+%26+Mobile+Apps;Engineering+Scalable+REST+APIs+%26+AI+Agents;3rd-Year+B.Tech+AI+%26+DS+%40+Vishwakarma+University;Open-Source+Contributor+%40+GSSoC+'26)](https://git.io/typing-svg)
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
@@ -19,16 +11,10 @@
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyal-khunia-840316378)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/priyal-khunia)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/priyalkhunia)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khunia.priyal25@gmail.com)
-
-<br/>
-
-| [📍 About](#-about--core-engineering-focus) | [🛠️ Tech Stack](#%EF%B8%8F-tech-stack--skill-matrix) | [🚀 Projects](#-featured-project-cards) | [🏆 Achievements](#-key-achievements--milestones) | [📊 Stats](#-performance--contribution-metrics) | [🌐 Connect](#-lets-connect) |
 
 </div>
 
@@ -57,28 +43,7 @@ I am a **3rd-year Artificial Intelligence & Data Science undergraduate** at **Vi
 
 ---
 
-### 🛠️ Tech Stack & Skill Matrix
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>💻 Core Software & DSA</b><br/><br/>
-      <code>Python & AI/ML</code><br/>██████████████░░ 88%<br/>
-      <code>JavaScript / TypeScript</code><br/>█████████████░░░ 85%<br/>
-      <code>Java & Data Structures</code><br/>████████████░░░░ 80%<br/>
-      <code>C++ & Logic</code><br/>███████████░░░░░ 75%
-    </td>
-    <td width="50%" valign="top">
-      <b>🌐 Frameworks & Infrastructure</b><br/><br/>
-      <code>React.js / Next.js</code><br/>██████████████░░ 90%<br/>
-      <code>FastAPI & REST APIs</code><br/>█████████████░░░ 86%<br/>
-      <code>React Native & Expo</code><br/>████████████░░░░ 80%<br/>
-      <code>Docker & GCP</code><br/>███████████░░░░░ 75%
-    </td>
-  </tr>
-</table>
-
-<br/>
+### 🛠️ Tech Stack & Ecosystem
 
 <table>
   <tr>
@@ -135,66 +100,14 @@ I am a **3rd-year Artificial Intelligence & Data Science undergraduate** at **Vi
 
 ---
 
-### 🚀 Featured Project Cards
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔲 QRcraft – Unified QR Platform</h3>
-      <p>Production full-stack app supporting <b>9+ QR types</b> (URLs, UPI, WhatsApp, Business Cards, File Uploads) with logo overlays & real-time scan analytics.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-      <a href="https://unified-qr-platform-eight.vercel.app"><b>🚀 Live Demo ↗</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📱 Task Tracker REST App</h3>
-      <p>Mobile application in React Native & Expo rendering real-time data from REST APIs with async state management and fluid touch UX.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_API-0055DA?style=flat-square&logo=fastapi&logoColor=white" />
-      </p>
-      <a href="https://github.com/priyal-khunia"><b>📦 GitHub Repo ↗</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 MediTrack AI</h3>
-      <p>24-hr Hackathon project converting handwritten prescriptions into structured multilingual (EN/HI/MR) care plans with automated email alerts.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" />
-      </p>
-      <b>🏆 Hackathon Project</b>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Email Triage RL Environment</h3>
-      <p>OpenEnv-compliant FastAPI environment for reinforcement learning agents across 30 real-world triage scenarios, containerized with Docker.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-      <a href="https://huggingface.co/spaces/priyalkhunia"><b>🤗 HuggingFace Space ↗</b></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<details>
-<summary><b>🔍 Click to Expand Detailed System Architecture & Tree View</b></summary>
-<br/>
+### 🚀 Selected Engineering Projects
 
 ```
 1. 🔲 QRcraft – Unified QR Platform
    ├─ Status: 🟢 Production Live (https://unified-qr-platform-eight.vercel.app)
    ├─ Tech Stack: Next.js • React.js • Firebase • TypeScript • Tailwind CSS • Vercel
    └─ Highlights: Full-stack platform supporting 9+ QR types (URL, UPI, WhatsApp, Digital Cards, Files).
+                  Features custom color pickers, logo overlay, and real-time Firebase scan analytics.
 
 2. 📱 Task Tracker – React Native REST App
    ├─ Status: 📦 Open Source Repo (https://github.com/priyal-khunia)
@@ -204,15 +117,15 @@ I am a **3rd-year Artificial Intelligence & Data Science undergraduate** at **Vi
 3. 🏥 MediTrack AI – Healthcare Assistant
    ├─ Status: 🏆 AIBoomi Startup Weekend (Built in 24 hrs)
    ├─ Tech Stack: FastAPI • Next.js • TypeScript • GPT-4 API • Resend Email API
-   └─ Highlights: Converts handwritten prescriptions into structured, multilingual care plans.
+   └─ Highlights: Converts handwritten prescriptions into structured, multilingual (EN/HI/MR) care plans
+                  with automated medication schedules and email notifications.
 
 4. 🤖 Email Triage RL Environment
    ├─ Status: 🤗 Live on HuggingFace Spaces (https://huggingface.co/spaces/priyalkhunia)
    ├─ Tech Stack: Python • FastAPI • PyTorch • Docker • HuggingFace Spaces
-   └─ Highlights: OpenEnv-compliant FastAPI environment for reinforcement learning agents (30 scenarios).
+   └─ Highlights: OpenEnv-compliant FastAPI environment for reinforcement learning agents simulating 30 
+                  real-world email triage decision tasks, fully containerized with Docker.
 ```
-
-</details>
 
 ---
 
