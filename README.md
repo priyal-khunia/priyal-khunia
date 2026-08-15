@@ -3,7 +3,7 @@
 # 👋 Hey, I'm Priyal Khunia
 ### `Full-Stack Developer` • `AI Systems Engineer` • `B.Tech AI & Data Science`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=650&lines=Building+Next-Gen+Full-Stack+Web+%26+Mobile+Apps;Engineering+Scalable+REST+APIs+%26+AI+Agents;3rd-Year+B.Tech+AI+%26+DS+%40+Vishwakarma+University;Open-Source+Contributor+%40+GSSoC+'26)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=650&lines=Building+Next-Gen+Full-Stack+Web+%26+Mobile+Apps;Engineering+Scalable+REST+APIs+%26+AI+Agents;3rd-Year+B.Tech+AI+%26+DS+%40+Vishwakarma+University)](https://git.io/typing-svg)
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
@@ -35,7 +35,6 @@ I am a **3rd-year Artificial Intelligence & Data Science undergraduate** at **Vi
 
 - 💼 **Active Roles**:
   - 🛠️ **Technical Team Member** @ *NextGen AI Club, VU* (Sep 2025 – Present) — Architecting AI/ML prototypes end-to-end, conducting workshops & mentoring peers.
-  - 🚀 **AI/Agents Track Contributor** @ *GirlScript Summer of Code '26* (May 2026 – Present) — Building open-source AI agent frameworks.
   - ⚡ *Ex-Intern:* **Development Intern** @ *NxtGenSec Pvt. Ltd.* (May – Jul 2026) — Built & shipped **QRcraft** (Unified QR Platform).
 - 📚 **Current Stack Deep-Dive**:
   - 🧩 Deepening **Java & Advanced Data Structures & Algorithms** for SDE technical interviews.
